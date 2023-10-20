@@ -4,7 +4,7 @@ This repository is to share what could be done with the STRAVA API in order to s
 
 ### First Project : Rank your N first kudoers over the last K (public) activities ###
 
-Step 1 : Login to your Strava account on your desktop browser :\n\n\n
+Step 1 : Login to your Strava account on your desktop browser :
 ![strava_auth](https://github.com/capitaintiti/StravaStats/assets/47813777/1d4df7da-bca4-4206-b61a-b6121a5792a1)
 
 Step 2 : Go to Settings > My Application API and create a new one. You should get a outcome like this screenshot :
