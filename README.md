@@ -16,5 +16,6 @@ This repository is to share what could be done with the STRAVA API in order to s
 - Step 4 : Edit the Python file code to have your API Application client secret
 
 - Step 5 : Run your code
+  - Edit the parameters at the head of the main.py file to define your output results
 
 Here it is, don't hesitate to give me a feedback
